@@ -1,0 +1,18 @@
+.logo{
+    position:fixed;
+    left:20px;
+    width:105px;
+}
+.Avatar{
+    position:fixed;
+    right:20px;
+    width: 30px;
+}
+.Nav{
+    position:fixed;
+    width:100%;
+    
+    display:flex;
+    justify-content:space-between;
+    background:#111;
+}
